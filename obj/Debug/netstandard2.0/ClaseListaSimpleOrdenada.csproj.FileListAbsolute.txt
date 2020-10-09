@@ -1,0 +1,9 @@
+C:\Users\jacco\source\repos\ClaseListaSimpleOrdenada\bin\Debug\netstandard2.0\ClaseListaSimpleOrdenada.deps.json
+C:\Users\jacco\source\repos\ClaseListaSimpleOrdenada\bin\Debug\netstandard2.0\ClaseListaSimpleOrdenada.dll
+C:\Users\jacco\source\repos\ClaseListaSimpleOrdenada\bin\Debug\netstandard2.0\ClaseListaSimpleOrdenada.pdb
+C:\Users\jacco\source\repos\ClaseListaSimpleOrdenada\obj\Debug\netstandard2.0\ClaseListaSimpleOrdenada.csprojAssemblyReference.cache
+C:\Users\jacco\source\repos\ClaseListaSimpleOrdenada\obj\Debug\netstandard2.0\ClaseListaSimpleOrdenada.AssemblyInfoInputs.cache
+C:\Users\jacco\source\repos\ClaseListaSimpleOrdenada\obj\Debug\netstandard2.0\ClaseListaSimpleOrdenada.AssemblyInfo.cs
+C:\Users\jacco\source\repos\ClaseListaSimpleOrdenada\obj\Debug\netstandard2.0\ClaseListaSimpleOrdenada.csproj.CoreCompileInputs.cache
+C:\Users\jacco\source\repos\ClaseListaSimpleOrdenada\obj\Debug\netstandard2.0\ClaseListaSimpleOrdenada.dll
+C:\Users\jacco\source\repos\ClaseListaSimpleOrdenada\obj\Debug\netstandard2.0\ClaseListaSimpleOrdenada.pdb
