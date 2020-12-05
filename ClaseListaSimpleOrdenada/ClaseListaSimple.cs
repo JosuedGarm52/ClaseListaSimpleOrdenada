@@ -3,7 +3,7 @@ using System.Collections.Generic;
 
 namespace ClaseListaSimpleOrdenada
 {
-    public class ClaseListaSimpleOrdenada<Tipo> where Tipo : IEquatable<Tipo>, IEnumerator<Tipo>, IComparable<Tipo>
+    public class ClaseListaSimpleOrdenada<Tipo> where Tipo : IEquatable<Tipo>, IComparable<Tipo>
     {
         private ClaseNodo<Tipo> _NodoInicial;
 
